@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Yan Zhang (张焱)
+
+~~~
+{}{img_left}{photo.png}{alt text}{256}{256}
+Ph.D. student,\n
+[https://www.statistics.utoronto.ca/ Department of Statistical Sciences], \n
+[https://www.utoronto.ca/ University of Toronto]\n
+Office: Ontario Power Building, Toronto, ON\n
+E-mail: ean \[DOT\] zhang \[AT\] mail \[DOT\] utoronto \[DOT\] ca \n
+[https://scholar.google.com/citations?user=RojReQUAAAAJ Google Scholar]
+~~~
+
+== About me
+I am a Ph.D. student in the Department of Statistical Sciences at the University of Toronto,
+advised by [https://utstat.toronto.edu/stanislav/ Stanislav Volgushev] and [https://utstat.utoronto.ca/sun/ Lei Sun].
+Previously, I completed an M.Phil. in the Department of Statistics and Actuarial Science at the University of Hong Kong,
+and a B.Sc. in Information and Computing Science at Harbin Institute of Technology.
+
+== Research
+My current research focuses on the theoretical and computational aspects of nonparametric mixture models,
+with an application emphasis on empirical Bayes.
