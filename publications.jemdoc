@@ -1,9 +1,17 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 == Papers
 
+- [https://arxiv.org/abs/2604.19725 Fast computation and theoretical guarantees for the NPMLE in exponential family mixtures]
+-- *Yan Zhang*
+-- Preprint (2026)
+
+- [https://arxiv.org/abs/2604.12087 Adaptivity of the NPMLE to finitely discrete mixing distributions in Gaussian/Poisson mixtures]
+-- *Yan Zhang*, Stanislav Volgushev
+-- Submitted (2026)
+
 - [https://arxiv.org/abs/2509.05610 On a surprising behavior of the likelihood ratio test in non-parametric mixture models]
 -- *Yan Zhang*, Stanislav Volgushev
--- Submitted (2025)
+-- Manuscript (2025)
 
 - [https://www.tandfonline.com/doi/full/10.1080/00031305.2022.2161637 Bayesian Log-Rank Test]
 -- Jiaqi Gu, *Yan Zhang*, Guosheng Yin
